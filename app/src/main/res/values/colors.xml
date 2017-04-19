@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="style_color_primary">#2d5d82</color>
+    <color name="style_color_primary_dark">#21425d</color>
+    <color name="style_color_accent">#01bcd5</color>
+    <color name="fab_color_pressed">#007787</color>
+    <color name="fab_color_shadow">#44000000</color>
+    <color name="text_like_counter">#2b5a83</color>
+    <color name="paint_color">#dddddd</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorRed">#ff0000</color>
+    <color name="colorBlue">#ff0000</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorBlackOverlay">#80000000</color>
+
+    <color name="colorGrey">#95989A</color>
+    <color name="colorGreyOverlay">#808c8686</color>
+    <color name="colorGreyLight">#80b9afaf</color>
+</resources>
